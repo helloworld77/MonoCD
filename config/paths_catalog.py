@@ -1,7 +1,7 @@
 import os
 
 class DatasetCatalog():
-    DATA_DIR = "/path/to/your/kitti/"
+    DATA_DIR = "/home/system/projects/7_phd/monocular3d/MonoCD/dataset/"
     DATASETS = {
         "kitti_train": {
             "root": "KITTI/training/",
